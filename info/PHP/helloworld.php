@@ -31,11 +31,11 @@ $flag = "Esci";
 echo "a è minore di b"."\n";
 }
 
-echo $a;
+//echo $a;
 
 
 ?>
-//creare 3 liste di numeri L1[1, 2, 3], L2 [4, 5, 6], L3[9, 8, 7]
+//creare 3 liste di numeri L1[1, 2, 3], L2 [4, 5, 6], L3[7, 8, 9]
 //numero a numero (stessa posizione nella lista) sommare gli elmenti delle prime due liste L1, L2 e moltiplicare la somma per l'elemento in L3
 //questa opperazione di moltilplicazione deve durare fino a che  la moltiplicazione è < 64;
 
